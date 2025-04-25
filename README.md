@@ -26,3 +26,7 @@ Turantr is an innovative AI-powered tutoring platform designed to make learning 
 
 ## Contributing
 We welcome contributions to help build out the full vision of Turantr. Please see our contributing guidelines for more information.
+
+
+https://astonishing-pixie-3b5648.netlify.app/
+check the website prototype now
